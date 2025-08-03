@@ -127,7 +127,7 @@ Start the server
 ## Contributing
 
 <a href="https://github.com/andi-nugroho/apple-websiteclone/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=rinkitadhana/The-Daily-Crimes" />
+  <img src="https://contrib.rocks/image?repo=andi-nugroho/apple-websiteclone" />
 </a>
 
 
