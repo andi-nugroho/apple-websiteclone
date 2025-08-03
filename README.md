@@ -3,12 +3,12 @@
 
   <img src="https://github.com/user-attachments/assets/db8be64e-daf8-4585-8410-11d5ce737f57" alt="logo" width="200" height="auto" />
   <h1>iPhone 15 Pro Website Clone</h1>
-  
+
   <p>
     This is a clone website of the iPhone 15 Pro, featuring 3D models and dynamic animations that bring the device to life. The smooth interactions and immersive visuals replicate the experience of a real product site. Explore every detail as if you’re navigating the official Apple page.
   </p>
-  
-  
+
+
 <!-- Badges -->
 <p>
   <a href="https://github.com/rinkitadhana/iPhone15-Apple-Clone">
@@ -26,17 +26,17 @@
   <a href="https://github.com/rinkitadhana/iPhone15-Apple-Clone">
     <img src="https://img.shields.io/github/issues/rinkitadhana/iPhone15-Apple-Clone" alt="open issues" />
   </a>
- 
+
 </p>
-   
+
 <h4>
-    <a href="https://therinkit-appleclone.vercel.app">View Demo</a>
+    <a href="https://appleclone.anditech.site">View Demo</a>
   <span> · </span>
-    <a href="https://github.com/rinkitadhana/iPhone15-Apple-Clone">Documentation</a>
+    <a href="https://github.com/andi-nugroho/apple-websiteclone">Documentation</a>
   <span> · </span>
-    <a href="https://github.com/rinkitadhana/iPhone15-Apple-Clone/issues/">Report Bug</a>
+    <a href="https://github.com/andi-nugroho/apple-websiteclone/issues">Report Bug</a>
   <span> · </span>
-    <a href="https://github.com/rinkitadhana/iPhone15-Apple-Clone/issues/">Request Feature</a>
+    <a href="https://github.com/andi-nugroho/apple-websiteclone/issues">Request Feature</a>
   </h4>
 </div>
 
@@ -54,7 +54,7 @@
 - [Contributing](#contributing)
 - [Contact](#contact)
 
-  
+
 
 <!-- About the Project -->
 ##  About the Project
@@ -63,7 +63,7 @@
 <!-- Screenshots -->
 ###  Screenshots
 
-<div align="center"> 
+<div align="center">
   <img src="https://github.com/user-attachments/assets/90a3dd0d-5971-44ee-8129-0c3c94005d6d" alt="screenshot" />
 </div>
 
@@ -100,7 +100,7 @@
 Clone the project
 
 ```bash
-  git clone https://github.com/rinkitadhana/The-Daily-Crimes
+  git clone https://github.com/andi-nugroho/apple-websiteclone.git
 ```
 
 Go to the project directory
@@ -126,19 +126,9 @@ Start the server
 <!-- Contributing -->
 ## Contributing
 
-<a href="https://github.com/rinkitadhana/The-Daily-Crimes/contributors">
+<a href="https://github.com/andi-nugroho/apple-websiteclone/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=rinkitadhana/The-Daily-Crimes" />
 </a>
 
 
 Contributions are always welcome!
-
-
-
-<!-- Contact -->
-##  Contact
-
-Rinkit Adhana - [@damnGruz](https://twitter.com/damnGruz) - therinkit@gmail.com
-
-Portfolio - [therinkit.online](https://therinkit.online)
-
