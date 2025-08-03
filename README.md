@@ -11,20 +11,20 @@
 
 <!-- Badges -->
 <p>
-  <a href="https://github.com/rinkitadhana/iPhone15-Apple-Clone">
-    <img src="https://img.shields.io/github/contributors/rinkitadhana/iPhone15-Apple-Clone" alt="contributors" />
+  <a href="https://github.com/andi-nugroho/apple-websiteclone">
+    <img src="https://img.shields.io/github/contributors/andi-nugroho/apple-websiteclone" alt="contributors" />
   </a>
-  <a href="https://github.com/rinkitadhana/iPhone15-Apple-Clone">
-    <img src="https://img.shields.io/github/last-commit/rinkitadhana/iPhone15-Apple-Clone" alt="last update" />
+  <a href="https://github.com/andi-nugroho/apple-websiteclone">
+    <img src="https://img.shields.io/github/last-commit/andi-nugroho/apple-websiteclone" alt="last update" />
   </a>
-  <a href="https://github.com/rinkitadhana/iPhone15-Apple-Clone">
-    <img src="https://img.shields.io/github/forks/rinkitadhana/iPhone15-Apple-Clone" alt="forks" />
+  <a href="https://github.com/andi-nugroho/apple-websiteclone">
+    <img src="https://img.shields.io/github/forks/andi-nugroho/apple-websiteclone" alt="forks" />
   </a>
-  <a href="https://github.com/rinkitadhana/iPhone15-Apple-Clone">
-    <img src="https://img.shields.io/github/stars/rinkitadhana/iPhone15-Apple-Clone" alt="stars" />
+  <a href="https://github.com/andi-nugroho/apple-websiteclone">
+    <img src="https://img.shields.io/github/stars/andi-nugroho/apple-websiteclone" alt="stars" />
   </a>
-  <a href="https://github.com/rinkitadhana/iPhone15-Apple-Clone">
-    <img src="https://img.shields.io/github/issues/rinkitadhana/iPhone15-Apple-Clone" alt="open issues" />
+  <a href="https://github.com/andi-nugroho/apple-websiteclone">
+    <img src="https://img.shields.io/github/issues/andi-nugroho/apple-websiteclone" alt="open issues" />
   </a>
 
 </p>
